@@ -35,13 +35,13 @@ I guess I'm not kinda typical programmer, but who knows. I love soccer and music
 
 **I thought I do have the passion on these infra. Compared to ML or DL, I think these are the real computer science and technology. I don't know why, just my bias maybe.**
 
-
+---
 
 ### LINUX
 
 Meanwhile, I also learned some **useful Linux command**, like ***git, grep, sed, awk, ssh, systemctl***, and the ***syntax of bash, vim, and something like that***. 
 
-
+---
 
 ### Web Technique
 
@@ -54,7 +54,7 @@ Meanwhile, I also learned some **useful Linux command**, like ***git, grep, sed,
 
 And I'll learned ***Redis, kafka, k8s*** and more as well !
 
-
+---
 
 ### Algorithm
 
@@ -62,7 +62,7 @@ And I'll learned ***Redis, kafka, k8s*** and more as well !
 
 [Here's my repo](https://github.com/zzz2552114/Cpp-algorithm)
 
-
+---
 
 ### Notes
 
@@ -75,8 +75,9 @@ So [this repository](https://github.com/zzz2552114/Notes) can be seen as a recor
 
 
 ---
+<br>
 
-### My Project
+## My Project
 
 > https://github.com/zzz2552114/forum AND https://github.com/zzz2552114/SITP-Hedging-Analysis-With-LLM Are 2 bad projects created by vibe-coding which I hate it right now. So u can just ignore them.
 
@@ -98,27 +99,27 @@ So [this repository](https://github.com/zzz2552114/Notes) can be seen as a recor
 
 > It's developing and will be finished soon !
 
-
+---
 
 - **Personal Blog**
 
 This is just an early version, will be implemented while learning FastAPI.
 
-
+---
 
 - **Online Bet system**
 
 It will be developed in parallel with the Blog Project.
 
-
+---
 
 - ...
 
 
+<br>
 
----
 
-### About Future
+## About Future
 
 I think **I can finish all these courses listed above**, and ***I hope to find an internship in Shanghai in the first half of 2027, whether in infra or backend development !*** And in a long future, I guess maybe I'll set up my own bussiness!
 
