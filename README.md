@@ -6,11 +6,11 @@ I'm a college Student from **Tongji University, ShangHai, China**. My major is *
 
 I guess I'm not kinda typical programmer, but who knows. I love soccer and music, and I enjoy my life so much. 
 
-**Email: ** zzz2552114@gmail.com  OR  2552114@tongji.edu.cn
+**Email:** zzz2552114@gmail.com  OR  2552114@tongji.edu.cn
 
 **Name:** Z.H.M
 
-**Discord: ** stzz101
+**Discord:** stzz101
 
 > Here should be some self-photos but not now, hh.
 
@@ -47,10 +47,10 @@ Meanwhile, I also learned some **useful Linux command**, like ***git, grep, sed,
 
 **I love to build a website as well**. Now my technique stack is 
 
-- **Backend: ** ***Python fastapi***
-- **Frontend: ** ***HTML, JavaScript, Vue3*** 
+- **Backend:** ***Python fastapi***
+- **Frontend:** ***HTML, JavaScript, Vue3*** 
 - **Database:** ***PostgreSQL, Python asyncpg***
-- **Operations: ** ***Nginx, docker***
+- **Operations:** ***Nginx, docker***
 
 And I'll learned ***Redis, kafka, k8s*** and more as well !
 
