@@ -6,7 +6,13 @@ I'm a college Student from **Tongji University, ShangHai, China**. My major is *
 
 I guess I'm not kinda typical programmer, but who knows. I love soccer and music, and I enjoy my life so much. 
 
-> Here should be some photos but not now, hh.
+**Email: ** zzz2552114@gmail.com  OR  2552114@tongji.edu.cn
+
+**Name:** Z.H.M
+
+**Discord: ** stzz101
+
+> Here should be some self-photos but not now, hh.
 
 ---
 
@@ -91,6 +97,18 @@ So [this repository](https://github.com/zzz2552114/Notes) can be seen as a recor
 4. ***A micro-app with a database.***
 
 > It's developing and will be finished soon !
+
+
+
+- **Personal Blog**
+
+This is just an early version, will be implemented while learning FastAPI.
+
+
+
+- **Online Bet system**
+
+It will be developed in parallel with the Blog Project.
 
 
 
