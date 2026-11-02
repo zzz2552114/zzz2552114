@@ -19,15 +19,19 @@ I guess I'm not kinda typical programmer, but who knows. I love soccer and music
 
 ## Learning Path
 
-### Courses
+### Infra Courses
 
 **I'm learning those famous computer science courses right now like :**
 
-- ***CMU 15-213 ( CS:APP )***  [**my repo**](https://github.com/zzz2552114/CSAPP-Lab)
+- ***CMU 15-213 ( CS:APP )***  
 
-- ***CMU 15-445 ( Database System )*** [***cpp bootcamp***](https://github.com/zzz2552114/CSAPP-Lab)
+**REPO:**  [**CSAPP-LAB**](https://github.com/zzz2552114/CSAPP-Lab)
 
-> ***by the way, the Bustub repo has to be private because Professor Andy Pavlo is serious about academic integrity. But if anybody wanna see it, I'll share u though.***
+- ***CMU 15-445 ( Database System )***
+
+**REPO:**  [***cpp bootcamp***](https://github.com/zzz2552114/CSAPP-Lab)
+
+> ***by the way, the Bustub repo has to be private because Professor Andy Pavlo is serious about academic integrity. But if anybody wanna see it, I'll share u the source code though.***
 
 - ***MIT6.S081 ( OS )***
 - ***Stanford CS144 ( Computer Network )***
@@ -42,6 +46,8 @@ I guess I'm not kinda typical programmer, but who knows. I love soccer and music
 
 Meanwhile, I also learned some **useful Linux command**, like ***git, grep, sed, awk, ssh, systemctl***, and the ***syntax of bash, vim, and something like that***. 
 
+**REPO:** [Learn-Linux](https://github.com/zzz2552114/Learn-Linux)
+
 ---
 
 ### Web Technique
@@ -55,13 +61,27 @@ Meanwhile, I also learned some **useful Linux command**, like ***git, grep, sed,
 
 And I'll learned ***Redis, kafka, k8s*** and more as well !
 
+**REPO:** [Learn-fastapi](https://github.com/zzz2552114/Learn-Fastapi)
+
+> And there're also some website projects below. 
+
 ---
 
 ### Algorithm
 
-***I've learned algorithm for 3 months for the examination of major change. Later, I won a Bronze medel In CCPC ShangHai.***
+**I've learned algorithm for 3 months for the examination of major change.**  ***Later, I won a Bronze medel In CCPC ShangHai.***
 
-[Here's my repo](https://github.com/zzz2552114/Cpp-algorithm)
+**REPO:** [algorithm](https://github.com/zzz2552114/Cpp-algorithm)
+
+---
+
+### Agent
+
+**I'm also interested in LLM-Agent. Not the traditional agent like alphaGO but the LLM-Harness.** 
+
+I'm just a beginner.
+
+**REPO:** [Learn-Agent](https://github.com/zzz2552114/Learn-Agent)
 
 ---
 
@@ -71,16 +91,16 @@ And I'll learned ***Redis, kafka, k8s*** and more as well !
 
 Within my study, ***LLM help my a lot, and I think it's worth to collect what LLM said as my Notes.***
 
-So [this repository](https://github.com/zzz2552114/Notes) can be seen as a record of conversations with LLM.
+So this repository can be seen as a record of conversations with LLM.
 
-
+**REPO:** [NOTES](https://github.com/zzz2552114/Notes)
 
 ---
 <br>
 
 ## My Project
 
-> https://github.com/zzz2552114/forum AND https://github.com/zzz2552114/SITP-Hedging-Analysis-With-LLM Are 2 bad projects created by vibe-coding which I hate it right now. So u can just ignore them.
+> [forum](https://github.com/zzz2552114/forum) AND [hedging](https://github.com/zzz2552114/SITP-Hedging-Analysis-With-LLM) Are 2 bad projects created by vibe-coding which I hate it right now. So u can just ignore them.
 
 
 
@@ -104,18 +124,21 @@ So [this repository](https://github.com/zzz2552114/Notes) can be seen as a recor
 
 - **Personal Blog**
 
-This is just an early version, will be implemented while learning FastAPI.
+This is just an early version, implementing while learning FastAPI.
+
+**REPO:** [blog](https://github.com/zzz2552114/blog)
 
 ---
 
 - **Online Bet system**
 
-It will be developed in parallel with the Blog Project.
+It's developing in parallel with the Blog Project.
+
+**REPO:** [bet](https://github.com/zzz2552114/Bet)
 
 ---
 
 - ...
-
 
 <br>
 
